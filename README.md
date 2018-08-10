@@ -2,12 +2,13 @@
 
 
 ### To Install:
-    1. [Install Node.js](https://nodejs.org/en/download/)
+    1. Install Node.js
     2. Clone the repo to wherever you want.
     3. Run 'npm install' from the root of the project.
     4. Create an *.osrm file.
     5. Run 'node bin/osrm-server {path to *.osrm} {--port X}'
     6. Send POST requests to '{IP_ADDRESS}/trip'
+
 
 
 ### An example request:
